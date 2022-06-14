@@ -13,7 +13,7 @@ name                     : &name "Savannah Lake"
 description              : &description "Digital Scholarship Librarian at UNC Charlotte"
 url                      : https://savannahlake.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "cv" # the subpath of your site, e.g. "/blog"
-repository               : "savannahlake.github.io/cv"
+repository               : "savannahlake/cv"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
